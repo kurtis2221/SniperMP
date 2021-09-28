@@ -1,9 +1,1 @@
-*.cs linguist-detectable=true
-*.aspx linguist-detectable=false
-*.config linguist-detectable=false
-*.csproj linguist-detectable=false
-*.xml linguist-detectable=false
-*.max linguist-detectable=false
-*.dds linguist-detectable=false
-*.fbx linguist-detectable=false
-*.txt linguist-detectable=false
+*.* linguist-language=C#
