@@ -1,0 +1,5 @@
+*.cs linguist-detectable=true
+*.aspx linguist-detectable=false
+*.config linguist-detectable=false
+*.csproj linguist-detectable=false
+*.xml linguist-detectable=false
